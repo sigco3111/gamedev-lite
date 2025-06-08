@@ -1,5 +1,5 @@
 {
-  "name": "게임데브스토리-lite",
+  "name": "gamedev-story-lite",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,8 +11,7 @@
   "dependencies": {
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "recharts": "^2.15.3",
-    "@/App": "latest"
+    "recharts": "^2.15.3"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
