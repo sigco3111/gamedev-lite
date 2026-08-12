@@ -1,0 +1,21 @@
+{
+  "name": "게임데브스토리 Lite",
+  "short_name": "게임데브",
+  "description": "게임 개발 관련 정보를 제공하는 웹 애플리케이션입니다.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e293b",
+  "theme_color": "#5046E5",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+} 
