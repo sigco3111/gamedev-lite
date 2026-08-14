@@ -5,7 +5,11 @@
 
 **게임데브스토리 Lite**는 카이로소프트(Kairosoft)의 명작 '게임 발전국 (Game Dev Story)'에 영감을 받아 제작된 텍스트 및 차트 기반의 게임 개발 시뮬레이션 게임입니다. 플레이어는 게임 개발 회사의 사장이 되어 회사를 경영하고, 멋진 게임들을 개발하며, 재능 있는 직원들을 고용하고 육성하여 업계 최고의 게임 개발사를 목표로 합니다.
 
-실행 주소 : https://dev-canvas-pi.vercel.app/
+라이브 데모 : https://sigco3111.github.io/gamedev-lite/
+
+[![Live](https://img.shields.io/badge/Live-GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://sigco3111.github.io/gamedev-lite/)
+
+> **호스팅 이력**: 본 프로젝트는 Vercel에서 운영되었으나 2026-08에 GitHub Pages로 전환했습니다. README 일부 본문/뱃지에서 Vercel 흔적이 남아있을 수 있으나 공식 라이브 데모는 위 Pages URL입니다.
 
 ## ✨ 주요 기능 (Key Features)
 
